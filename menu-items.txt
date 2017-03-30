@@ -1,0 +1,9 @@
+Hamburger
+Fries
+Soda
+Fried Pickles
+Milkshake
+Hotdog
+Cheesedog
+Corndog
+Coffee
